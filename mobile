@@ -96,6 +96,10 @@ apps.bazaarvoice.com
 api.bazaarvoice.com
 bazaarvoice.com
 
+
+kayzen.io
+events-dca.bidder.kayzen.io
+
 # Consider Regexing these
 # domains
 x-eu.b8a29a12302a93c02887ccd0f01578d592d5e2b76bb46b1915dc1e20.com
