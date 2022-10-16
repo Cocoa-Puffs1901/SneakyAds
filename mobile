@@ -14,8 +14,6 @@ total-stream.net
 braveglobal.tv
 thinknearhub.com
 inmarkethub.com
-geller-pa.googleapis.com
-growth-pa.googleapis.com
 redirector.googlevideo.com
 arcus-uswest.amazon.com 
 fg8dgt.com 
@@ -25,38 +23,36 @@ global-rtb.com
 revenuecat.com
 qualtrics.com
 embedly.com
-footprints-pa.googleapis.com
 b-graph.facebook.com
 applovin.com
 wxadserve.xyz
 rapidbidding.com
 vr-tb.com
-discover-pa.googleapis.com  
 iadsdk.apple.com
 ads-rtb.com
 smrpm.com
 hubspotusercontent-na1.net
-imasdk.googleapis.com
 alb.reddit.com
 forter.com
 wistia.com
 pathfactory.com
 get-prize-to-me.fun
 doubleverify.com
-ads.marrypearl.com
-marypearl.com
 b-graph.facebook.com
-logx.optimizely.com
-optimizely.com
-unifiedbidding.ad.smaato.net
-smaato.net
-static.hsappstatic.net
-hsappstatic.net
 everestop.io
 1826203.fs1.hubspotusercontent-na1.net
 pangle.io
-geoip.ifunny.co
+geoip.ifunny.co 
 roopi.link
+
+logx.optimizely.com
+optimizely.com
+
+unifiedbidding.ad.smaato.net
+smaato.net
+
+static.hsappstatic.net
+hsappstatic.net
 
 immortal.aifrwk.com
 aifrwk.com
@@ -78,7 +74,7 @@ us-east.netsrv.com
 gwbudgetali.iymedia.me
 iymedia.me
  
- api-us.bidmachine.io
+api-us.bidmachine.io
 bidmachine.io
 
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
@@ -106,6 +102,16 @@ pglstatp.com
 
 kayzen.io
 events-dca.bidder.kayzen.io
+
+ads.marrypearl.com
+marypearl.com
+
+#Google API trackers
+geller-pa.googleapis.com
+growth-pa.googleapis.com
+imasdk.googleapis.com
+discover-pa.googleapis.com  
+footprints-pa.googleapis.com
 
 # Consider Regexing these
 # domains
